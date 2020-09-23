@@ -32,6 +32,9 @@
 
                     {{ value.display }}
                 </div>
+                <div v-else>
+                    选择{{ filter.name }}
+                </div>                
 
                 <div
                     slot="option"
