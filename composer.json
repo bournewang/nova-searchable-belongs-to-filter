@@ -1,5 +1,5 @@
 {
-    "name": "suenerds/nova-searchable-belongs-to-filter",
+    "name": "bourne/nova-searchable-belongs-to-filter",
     "description": "Searchable Nova filter for belongsTo relationships.",
     "keywords": [
         "laravel",
